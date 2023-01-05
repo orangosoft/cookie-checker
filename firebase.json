@@ -1,0 +1,14 @@
+{
+  "hosting": [
+    {
+      "target": "cookie-checker",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        ".firebaserc",
+        "README.md",
+        "package.json"
+      ]
+    }
+  ]
+}

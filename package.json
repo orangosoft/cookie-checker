@@ -1,0 +1,12 @@
+{
+  "name": "cookie-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cookie-checker.js",
+  "scripts": {
+    "deploy": "firebase deploy -P default --only hosting:cookie-checker"
+  },
+  "keywords": [],
+  "author": "Rob Taylor <roboncode@gmail.com>",
+  "license": "MIT"
+}

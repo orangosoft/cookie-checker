@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "portal-415c6"
+  },
+  "targets": {
+    "portal-415c6": {
+      "hosting": {
+        "cookie-checker": [
+          "cookie-checker"
+        ]
+      }
+    }
+  }
+}
